@@ -1,5 +1,5 @@
-// Your job: wire up the buttons and make the counter work
-// You have access to these elements:
+// implement the buttons functionality and make the counter work
+
 const countEl = document.getElementById('count');
 const btnDec = document.getElementById('btn-dec');
 const btnReset = document.getElementById('btn-reset');
